@@ -10,6 +10,8 @@ assignees: ''
 **What is the e-mail address you are using to login to xehub**
 myemail@mydomain.something
 
+**What is your chapter number and name**
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
